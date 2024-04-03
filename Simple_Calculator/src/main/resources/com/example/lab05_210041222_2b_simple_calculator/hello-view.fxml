@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="381.0" prefWidth="359.0" style="-fx-background-color: aliceblue;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lab05_210041222_2b_simple_calculator.HelloController">
+   <children>
+      <Label alignment="CENTER" layoutY="10.0" prefHeight="54.0" prefWidth="359.0" style="-fx-background-color: BEIGE;" text="My Simple Calculator" textAlignment="JUSTIFY" textFill="#117ab8">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Label fx:id="result_display" alignment="CENTER" layoutX="10.0" layoutY="71.0" prefHeight="62.0" prefWidth="340.0" style="-fx-background-color: white;" text="Your output" textAlignment="JUSTIFY" textFill="#eb9b2384">
+         <font>
+            <Font size="34.0" />
+         </font>
+      </Label>
+      <Button layoutX="31.0" layoutY="139.0" mnemonicParsing="false" onAction="#on_digit_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: lightcoral;" text="7">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="113.0" layoutY="139.0" mnemonicParsing="false" onAction="#on_digit_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: lightcoral;" text="8">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="195.0" layoutY="139.0" mnemonicParsing="false" onAction="#on_digit_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: lightcoral;" text="9">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="277.0" layoutY="139.0" mnemonicParsing="false" onAction="#on_operator_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: BLANCHEDALMOND;" text="+" textFill="#d72424">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="31.0" layoutY="198.0" mnemonicParsing="false" onAction="#on_digit_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: lightcoral;" text="4">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="113.0" layoutY="198.0" mnemonicParsing="false" onAction="#on_digit_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: lightcoral;" text="5">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="195.0" layoutY="198.0" mnemonicParsing="false" onAction="#on_digit_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: lightcoral;" text="6" />
+      <Button layoutX="277.0" layoutY="198.0" mnemonicParsing="false" onAction="#on_operator_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: BLANCHEDALMOND;" text="-" textFill="#d72424">
+         <font>
+            <Font name="Bangla" size="16.0" />
+         </font>
+      </Button>
+      <Button layoutX="31.0" layoutY="257.0" mnemonicParsing="false" onAction="#on_digit_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: lightcoral;" text="1">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="113.0" layoutY="257.0" mnemonicParsing="false" onAction="#on_digit_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: lightcoral;" text="2">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="195.0" layoutY="257.0" mnemonicParsing="false" onAction="#on_digit_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: lightcoral;" text="3">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="277.0" layoutY="257.0" mnemonicParsing="false" onAction="#on_operator_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: BLANCHEDALMOND;" text="*" textFill="#d72424">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Button>
+      <Button layoutX="31.0" layoutY="316.0" mnemonicParsing="false" onAction="#on_AC_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: cadetblue;" text="AC" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="113.0" layoutY="316.0" mnemonicParsing="false" onAction="#on_digit_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: lightcoral;" text="0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="195.0" layoutY="316.0" mnemonicParsing="false" onAction="#on_operator_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: burlywood;" text="=" textFill="#461212">
+         <font>
+            <Font name="System Bold Italic" size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="277.0" layoutY="316.0" mnemonicParsing="false" onAction="#on_operator_clicked" prefHeight="39.0" prefWidth="52.0" style="-fx-background-color: BLANCHEDALMOND;" text="/" textFill="#d72424">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
