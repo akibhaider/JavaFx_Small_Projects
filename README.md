@@ -16,6 +16,7 @@ These are simple word guessing game and calculator built using JavaFX and Scene 
   </div>
 
   <div style="text-align: center;">
+    <br/>
     <img src="Simple_Calculator/Calculator.png" alt="Calculator" style="width: 300px;"/>
     <br/>
     <em>Calculator</em>
