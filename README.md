@@ -1,5 +1,3 @@
-# Anagram-Jumble Word Guessing Game
-
 ## Overview
 These are simple word guessing game and calculator built using JavaFX and Scene Builder. The word guessing game presents the user with a set of jumbled words, and the user has to correctly guess the order of the letters to form the correct word. If the user selects the letters in the correct order, they win the game. If a wrong letter is selected, the game resets. Likewise, simple calculator is a online clone version of Casio WD-320MT desk(ergonomic calculator, that can calculate upto 1e18 ranged numbers with a precision of 1e-6.) 
 
@@ -13,7 +11,7 @@ These are simple word guessing game and calculator built using JavaFX and Scene 
 *Anagram*
 
 ![Calculator Screenshot](Simple_Calculator/Calculator.png)
-*Calculator.*
+*Calculator*
 
 ## How to Run
 1. Ensure you have Java installed on your machine. You can download it from [here](https://www.java.com/en/download/).
