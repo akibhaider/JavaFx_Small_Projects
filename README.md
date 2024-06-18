@@ -8,19 +8,20 @@ These are simple word guessing game and calculator built using JavaFX and Scene 
 
 ## Screenshot
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="text-align: center; margin: 10px;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+  <div style="text-align: center;">
     <img src="Word_Guessing_Game/word_guessing_game.png" alt="Anagram" style="width: 300px;"/>
     <br/>
     <em>Anagram</em>
   </div>
 
-  <div style="text-align: center; margin: 10px;">
+  <div style="text-align: center;">
     <img src="Simple_Calculator/Calculator.png" alt="Calculator" style="width: 300px;"/>
     <br/>
     <em>Calculator</em>
   </div>
 </div>
+
 
 
 
