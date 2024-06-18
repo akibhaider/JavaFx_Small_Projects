@@ -10,14 +10,14 @@ These are simple word guessing game and calculator built using JavaFX and Scene 
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   <div style="text-align: center;">
-    <img src="Word_Guessing_Game/word_guessing_game.png" alt="Anagram" style="width: 500px;"/>
+    <img src="Word_Guessing_Game/word_guessing_game.png" alt="Anagram" style="width: 537px;"/>
     <br/>
     <em>Anagram</em>
   </div>
 
   <div style="text-align: center;">
     <br/>
-    <img src="Simple_Calculator/Calculator.png" alt="Calculator" style="width: 300px;"/>
+    <img src="Simple_Calculator/Calculator.png" alt="Calculator" style="width: 453px;"/>
     <br/>
     <em>Calculator</em>
   </div>
