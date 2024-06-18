@@ -9,7 +9,7 @@ These are simple word guessing game and calculator built using JavaFX and Scene 
 - Easy to use
 
 ## Screenshot
-![Game Screenshot](path/to/your/screenshot.png)
+![Game Screenshot](Word_Guessing_Game/word_guessing_game.png)
 *Figure 1: Anagram - jumbled words.*
 
 ![Calculator Screenshot](path/to/your/screenshot.png)
