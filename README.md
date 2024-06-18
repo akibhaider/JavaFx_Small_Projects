@@ -23,6 +23,7 @@ These are simple word guessing game and calculator built using JavaFX and Scene 
 </p>
 
 
+
 ## How to Run
 1. Ensure you have Java installed on your machine. You can download it from [here](https://www.java.com/en/download/).
 2. Clone this repository or download the source code as a zip file and extract it.
