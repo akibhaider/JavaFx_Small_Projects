@@ -10,7 +10,7 @@ These are simple word guessing game and calculator built using JavaFX and Scene 
 
 ## Screenshot
 ![Game Screenshot](Word_Guessing_Game/word_guessing_game.png)
-*Anagram: Word Game.*
+*Anagram*
 
 ![Calculator Screenshot](path/to/your/screenshot.png)
 *Figure 2: Simple Calculator.*
