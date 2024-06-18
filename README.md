@@ -12,8 +12,8 @@ These are simple word guessing game and calculator built using JavaFX and Scene 
 ![Game Screenshot](Word_Guessing_Game/word_guessing_game.png)
 *Anagram*
 
-![Calculator Screenshot](path/to/your/screenshot.png)
-*Figure 2: Simple Calculator.*
+![Calculator Screenshot](Simple_Calculator/Calculator.png)
+*Calculator.*
 
 ## How to Run
 1. Ensure you have Java installed on your machine. You can download it from [here](https://www.java.com/en/download/).
