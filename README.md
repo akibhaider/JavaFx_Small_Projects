@@ -1,3 +1,5 @@
+![Contributors](https://img.shields.io/github/contributors/akibhaider/JavaFx_Small_Projects?color=darkgreen) ![Forks](https://img.shields.io/github/forks/akibhaider/JavaFx_Small_Projects?style=social) ![Stargazers](https://img.shields.io/github/stars/akibhaider/JavaFx_Small_Projects?style=social) ![Issues](https://img.shields.io/github/issues/akibhaider/JavaFx_Small_Projects?color=brown) 
+
 ## Overview
 These are simple word guessing game and calculator built using JavaFX and Scene Builder. The word guessing game presents the user with a set of jumbled words, and the user has to correctly guess the order of the letters to form the correct word. If the user selects the letters in the correct order, they win the game. If a wrong letter is selected, the game resets. Likewise, simple calculator is a online clone version of Casio WD-320MT desk(ergonomic calculator, that can calculate upto 1e18 ranged numbers with a precision of 1e-6.) 
 
